@@ -23,7 +23,7 @@ namespace pehtok1111
             {
                 Console.WriteLine("Малой, иди нахуй. Или я позвоню твоим родителям по этому номеру телефона: " + dfg);
             }
-            if (age >= 18) 
+            if (age == 18) 
             {
                 Process.Start("http://vsexshop.ru");
             }
